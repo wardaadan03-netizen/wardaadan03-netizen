@@ -1,6 +1,6 @@
 <!-- GitHub Banner (medium size, centered) -->
 <p align="center">
-  <img alt="GitHub Banner" width="600" src="https://github.com/wardaadan03-netizen/wardaadan03-netizen/blob/main/github%20banner%20.png?raw=true" />
+  <img alt="GitHub Banner" width="500" src="https://github.com/wardaadan03-netizen/wardaadan03-netizen/blob/main/github%20banner%20.png?raw=true" />
 </p>
 
 <!-- Coding GIF -->
