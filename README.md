@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wardaadan03-netizen/wardaadan03-netizen/main/banner.png" alt="Warda Adan Banner" width="100%" style="max-height:300px; object-fit:cover;">
+</p>
 <h1 align="center">Hi 👋, I'm Warda Adan</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 
